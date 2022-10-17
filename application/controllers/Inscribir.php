@@ -7,9 +7,9 @@ class Inscribir extends CI_Controller {
 
     public function index()
     {
-        if($_SESSION['ci']!="4079598"){
-            header("Location: ".base_url());
-        }
+//        if($_SESSION['ci']!="4079598"){
+//            header("Location: ".base_url());
+//        }
         $data['css']="
         		<!-- Specific Page Vendor CSS -->
                 <link rel='stylesheet' href='".base_url()."assets/vendor/select2/select2.css' />
