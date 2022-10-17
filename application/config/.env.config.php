@@ -25,7 +25,7 @@ date_default_timezone_set('America/La_Paz');
 |
 */
 //$config['base_url'] = 'http://10.10.50.215/registro';
-$config['base_url'] = 'https://registro.jtc2022.cisco.sistemas.edu.bo/';
+$config['base_url'] = 'http://regcisaisi.sisinf.edu';
 
 
 /*
