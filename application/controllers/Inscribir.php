@@ -1,6 +1,7 @@
 <?php
 
 defined('BASEPATH') OR exit('No direct script access allowed');
+date_default_timezone_set('America/La_Paz');
 include 'barcode.php';
 
 class Inscribir extends CI_Controller {
